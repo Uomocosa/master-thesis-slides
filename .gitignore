@@ -1,0 +1,10 @@
+# The generated site under docs/ IS committed on purpose — GitHub Pages serves it
+# and it cannot be rebuilt in CI (rendering needs PowerPoint). Do not ignore docs/.
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Transient render leftovers (should never be committed)
+docs/assets/_render/
