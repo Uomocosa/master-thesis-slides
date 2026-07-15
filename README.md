@@ -4,10 +4,10 @@ Presentazione di discussione della tesi magistrale (Università di Siena) su una
 computazionale per **predire e generare polimeri adsorbenti** ("spugne molecolari") per la
 rimozione di contaminanti dalle acque reflue.
 
-**➡️ Presentazione web (GitHub Pages):** _abilita GitHub Pages (vedi sotto) e sostituisci qui il link_
-`https://<utente>.github.io/master-thesis-slides/`
+**➡️ Presentazione web (GitHub Pages):** <https://uomocosa.github.io/master-thesis-slides/>
 
 **📎 Codice e metodologia completi:** [Uomocosa/master-thesis](https://github.com/Uomocosa/master-thesis)
+— la tesi, la pipeline computazionale e il pacchetto `create_slides` che genera queste slide.
 
 ---
 
