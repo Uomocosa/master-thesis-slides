@@ -15,7 +15,8 @@ rimozione di contaminanti dalle acque reflue.
 
 | Percorso | Contenuto |
 |----------|-----------|
-| `Slide_Samuele_Maggiori_v2.pptx` | La presentazione PowerPoint (revisionata dai relatori, con animazioni video incorporate) — è la sorgente del sito. |
+| `Slide_Samuele_Maggiori_v3.pptx` | La presentazione PowerPoint attiva — è la v2 con i video corretti (partono da uno schermo vuoto e terminano sull'immagine finale). È la sorgente del sito. |
+| `Slide_Samuele_Maggiori_v2.pptx` | La versione revisionata dai relatori, conservata intatta per riferimento. |
 | `Slide_Samuele_Maggiori_v1.pptx` | La versione precedente alla revisione, conservata per riferimento. |
 | `docs/` | La versione web statica servita da GitHub Pages (reveal.js). |
 | `.github/workflows/pages.yml` | Workflow che pubblica `docs/` su GitHub Pages. |
