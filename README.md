@@ -15,16 +15,16 @@ rimozione di contaminanti dalle acque reflue.
 
 | Percorso | Contenuto |
 |----------|-----------|
-| `Slide_Samuele_Maggiori.pptx` | La presentazione PowerPoint originale (con animazioni video incorporate). |
+| `Slide_Samuele_Maggiori_v2.pptx` | La presentazione PowerPoint (revisionata dai relatori, con animazioni video incorporate) — è la sorgente del sito. |
+| `Slide_Samuele_Maggiori_v1.pptx` | La versione precedente alla revisione, conservata per riferimento. |
 | `docs/` | La versione web statica servita da GitHub Pages (reveal.js). |
 | `.github/workflows/pages.yml` | Workflow che pubblica `docs/` su GitHub Pages. |
 
 ## Come usare la versione web
 
 Apri il sito e **clicca** (o usa le frecce / la barra spaziatrice) per avanzare.
-Sulle slide con animazioni, il **click avvia il video** in sovrimpressione: un click lo fa
-partire, il click successivo passa (all'eventuale seconda animazione e poi) alla slide
-seguente — esattamente come nella modalità presentazione di PowerPoint.
+Sulle slide con animazioni i **video partono automaticamente** appena la slide è mostrata;
+se una slide ha due video, il secondo parte 5 secondi dopo il primo.
 
 ## Come è stata creata
 
