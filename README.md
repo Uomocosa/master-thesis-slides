@@ -15,7 +15,8 @@ rimozione di contaminanti dalle acque reflue.
 
 | Percorso | Contenuto |
 |----------|-----------|
-| `Slide_Samuele_Maggiori_v3.pptx` | La presentazione PowerPoint attiva — è la v2 con i video corretti (partono da uno schermo vuoto e terminano sull'immagine finale). È la sorgente del sito. |
+| `Slide_Samuele_Maggiori_v4.pptx` | La presentazione PowerPoint attiva — è la v3 più due slide di risultati (parity plot del modello PSCP e tabella dei risultati di estrazione LLM). È la sorgente del sito. |
+| `Slide_Samuele_Maggiori_v3.pptx` | La v2 con i video corretti (partono da uno schermo vuoto e terminano sull'immagine finale), conservata per riferimento. |
 | `Slide_Samuele_Maggiori_v2.pptx` | La versione revisionata dai relatori, conservata intatta per riferimento. |
 | `Slide_Samuele_Maggiori_v1.pptx` | La versione precedente alla revisione, conservata per riferimento. |
 | `docs/` | La versione web statica servita da GitHub Pages (reveal.js). |
